@@ -11,7 +11,7 @@ One of the following is required:
     - The contents of the QR code are printed as plain text above the QR code.
 - Use -f or --file to: 
     - Output the QR code to a file (specifying the file name).
-    - This file will be placed in the current working directory.
+    - This file will be a .PNG file placed in the current working directory.
     - The name of the file is printed below the QR code.
 - Use -b or --both to do both of the above.
 
